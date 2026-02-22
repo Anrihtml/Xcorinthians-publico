@@ -1,0 +1,1 @@
+Esse site não tem fins lucrativos, é apenas um mini projeto meu para aprender algumas linguagens, caso tenha vindo aqui para reclamar direitos autorais, apenas me contate em fay_corinthians no discord que eu tiro o site do ar.
