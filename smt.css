@@ -1,0 +1,125 @@
+h1 {
+    color: rgb(255, 255, 255);
+
+}
+
+html, body {
+    height: 100%;
+    margin:0;
+    background-color: rgb(31, 31, 31);
+}
+
+.smtx {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4cm;
+    color: aliceblue;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12cm;
+}
+  .naochorax{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+p {
+    color: rgb(185, 185, 185);
+}
+ 
+
+.xvideos1 {
+    position: fixed;
+    min-height: 9vh;
+    height: 2cm;
+   
+}
+
+ .xvideos {
+    position: absolute;
+    top: 0;
+    left: 0;
+ }
+
+ .busca {
+    position:fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+video {
+    border: 2px solid black;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+}
+
+
+
+.cb { 
+   padding: 10px;
+   width: 300px;
+   border: 2px solid red;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.bb {
+    width: 33px;
+    height: 33px;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/017/744/411/small/magnifying-glass-icon-png.png);
+    background-size: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none; 
+}
+.bb:hover { box-shadow: 0 0 8px white; }
+
+.gol1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.golt1 {
+    
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     top: 0;
+     left: 0%;
+     flex-direction: column;
+}
+
+.gol2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    flex-direction: column;
+}
+
+.golt2 {
+    
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     top: 0;
+     left: 0%;
+     flex-direction: column;
+}
